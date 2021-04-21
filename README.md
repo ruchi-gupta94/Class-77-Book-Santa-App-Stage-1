@@ -1,2 +1,2 @@
-# Class-77-Book-Santa-App-Stage-1
-Class 77 Book Santa App Stage 1
+# book-santa-stage-1
+The Book Donation app
